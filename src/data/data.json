@@ -1,0 +1,134 @@
+{
+  "Header": {
+    "title": "Gabtai Escola de beleza",
+    "paragraph": "Com mais de 15 anos de história e mais de 10 anos trabalhando com educação e desenvolvimento de cabelereiros por todo país."
+  },
+  "About": {
+    "paragraph": "Com mais de 15 anos de história e mais de 10 anos trabalhando com educação e desenvolvimento de cabelereiros por todo país.",
+    "Why": [
+      "Professores capacitados",
+      "Material Personalizado",
+      "Diferentes cursos e módulos",
+      "Consultorias individuais"
+    ],
+    "Why2": [
+      "Aulas em grupo",
+      "Cursos online e presenciais",
+      "Estágios presenciais",
+      "Estratégias para crescimento profissional"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Mentoria",
+      "largeImage": "",
+      "smallImage": "img/mentory.jpg"
+    },
+    {
+      "title": "Seja especialista em mechas",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/masterblondes.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-arrow-up",
+      "name": "Imersão",
+      "text": "Criar uma experiência de imersão inicial para você evoluir"
+    },
+    {
+      "icon": "fa fa-book",
+      "name": "Reforço",
+      "text": "Aulas de reforço com especialista"
+    },
+    {
+      "icon": "fa fa-group",
+      "name": "Acompanhamento personalizado",
+      "text": "Acompanhamos seus resultados e suas dificuldades"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/02.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Contato direto",
+      "text": "Grupo no whatsapp e acesso ao contato dos professores para dúvidas e outros assuntos."
+    },
+    {
+      "icon": "fa fa-book",
+      "title": "Material de apoio",
+      "text": "Material de apoio personalizado para cada módulo e cursos de acordo com a necessidade"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Networking",
+      "text": "Criação de conexão entre profissionais"
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Modos de curso",
+      "text": "Modos de cursos presenciais e online"
+    }
+  ]
+}
