@@ -4,7 +4,7 @@
     "paragraph": "Com mais de 15 anos de história e mais de 10 anos trabalhando com educação e desenvolvimento de cabelereiros por todo país."
   },
   "About": {
-    "paragraph": "Com mais de 15 anos de história e mais de 10 anos trabalhando com educação e desenvolvimento de cabelereiros por todo país.",
+    "paragraph": "Com mais de 15 anos de história e experiência em carreira e desenvolvimento de cabeleireiros e salão de beleza criamos um sistema de educação moderno para ajudar pessoas comuns a se tornarem um profissional apto para o novo mercado da beleza visando a valorização da mão de obra e a diferenciação",
     "Why": [
       "Professores capacitados",
       "Material Personalizado",
@@ -34,17 +34,17 @@
     {
       "icon": "fa fa-arrow-up",
       "name": "Imersão",
-      "text": "Criar uma experiência de imersão inicial para você evoluir"
+      "text": "Criamos uma experiência de imersão para você evoluir mais rapidamente"
     },
     {
       "icon": "fa fa-book",
       "name": "Reforço",
-      "text": "Aulas de reforço com especialista"
+      "text": "Aulas de reforço com especialistas"
     },
     {
       "icon": "fa fa-group",
       "name": "Acompanhamento personalizado",
-      "text": "Acompanhamos seus resultados e suas dificuldades"
+      "text": "Vamos acompanhar seus resultados e suas dificuldades para te ajudar sempre"
     }
   ],
   "Testimonials": [
@@ -113,22 +113,22 @@
     {
       "icon": "fa fa-comments-o",
       "title": "Contato direto",
-      "text": "Grupo no whatsapp e acesso ao contato dos professores para dúvidas e outros assuntos."
+      "text": "Tenha contato direto com nossa equipe, sem respostas automáticas."
     },
     {
       "icon": "fa fa-book",
       "title": "Material de apoio",
-      "text": "Material de apoio personalizado para cada módulo e cursos de acordo com a necessidade"
+      "text": "Tenha material de apoio personalizado para suas necessidades do dia dia do salão de beleza "
     },
     {
       "icon": "fa fa-group",
       "title": "Networking",
-      "text": "Criação de conexão entre profissionais"
+      "text": "Através dos nossos cursos você aplica sua rede de relacionamento e tem benefícios como descontos em equipamentos, materiais e produtos"
     },
     {
       "icon": "fa fa-graduation-cap",
       "title": "Modos de curso",
-      "text": "Modos de cursos presenciais e online"
+      "text": "Disponibilizamos modos de cursos presenciais,on-line e híbrido"
     }
   ]
 }
