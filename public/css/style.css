@@ -603,4 +603,16 @@ label {
   #about img {
     margin: 50px 0;
   }
+
+  .intro {
+    display: table;
+    width: 110vw;
+    padding: 0;
+    background: url(../img/intro-bg.jpg) center center no-repeat;
+    background-color: #e5e5e5;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
 }
