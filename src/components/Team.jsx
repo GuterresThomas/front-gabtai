@@ -7,8 +7,7 @@ export const Team = (props) => {
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Conheça nosso time de professores</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Nossa equipe é formada por profissionais com mais de 10 anos de expêriencia de mercado, podendo te entregar todos os segredos para avançar na área da beleza de forma mais rápida!
           </p>
         </div>
         <div id="row">
