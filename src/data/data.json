@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Gabtai Escola de beleza",
-    "paragraph": "Com mais de 15 anos de história e mais de 10 anos trabalhando com educação e desenvolvimento de cabelereiros por todo país."
+    "paragraph": "Há mais de 10 anos trabalhando com educação e desenvolvimento de profissionais cabeleireiros"
   },
   "About": {
     "paragraph": "Com mais de 15 anos de história e experiência em carreira e desenvolvimento de cabeleireiros e salão de beleza criamos um sistema de educação moderno para ajudar pessoas comuns a se tornarem um profissional apto para o novo mercado da beleza visando a valorização da mão de obra e a diferenciação",
@@ -28,6 +28,11 @@
       "title": "Seja especialista em mechas",
       "largeImage": "",
       "smallImage": "img/masterblondes.jpg"
+    },
+    {
+      "title": "Curso de formação para cabelereiros",
+      "largeImage":"",
+      "smallImage":"img/formacao.jpg"
     }
   ],
   "Services": [
@@ -66,9 +71,9 @@
   ],
   "Team": [
     {
-      "img": "img/team/02.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/06.jpg",
+      "name": "Gabriel Pilarski",
+      "job": "CEO e fundador, responsável pelos cursos para cabelereiros."
     },
     {
       "img": "img/team/05.jpg",
