@@ -146,7 +146,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Design by{" "}
+            &copy; 2024{" "}
           </p>
         </div>
       </div>
