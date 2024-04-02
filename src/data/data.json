@@ -33,6 +33,11 @@
       "title": "Curso de formação para cabelereiros",
       "largeImage":"",
       "smallImage":"img/formacao.jpg"
+    },
+    {
+      "title": "Curso de maquiagem",
+      "largeImage":"",
+      "smallImage":"img/maquiagem.jpg"
     }
   ],
   "Services": [
@@ -56,7 +61,7 @@
     {
       "img": "img/testimonials/07.jpg",
       "text": "Superou minhas expectativas! Os cursos a distância são extremamente didáticos, e o conteúdo voltado para cabelos é completo e atualizado. Recomendo a todos que desejam se destacar nesse segmento.",
-      "name": "Sabrina"
+      "name": "Thais"
     },
     {
       "img": "img/testimonials/06.jpg",
