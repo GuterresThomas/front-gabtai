@@ -105,7 +105,7 @@ export const Contact = (props) => {
               <p>
                 <span>
                   <i className="fa fa-phone"></i> Telefone
-                </span>{"https://wa.me/5555981191713"}
+                </span>{" "}
                 {props.data ? props.data.phone : "loading"}
               </p>
             </div>
@@ -133,8 +133,8 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
+                    <a href={props.data ? props.data.youtube : "https://wa.me/5555981191713"}>
+                      <i className="fa fa-whatsapp"></i>
                     </a>
                   </li>
                 </ul>
