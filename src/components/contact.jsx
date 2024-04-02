@@ -105,7 +105,7 @@ export const Contact = (props) => {
               <p>
                 <span>
                   <i className="fa fa-phone"></i> Telefone
-                </span>{" "}
+                </span>{"https://wa.me/5555996800862"}
                 {props.data ? props.data.phone : "loading"}
               </p>
             </div>
